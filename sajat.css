@@ -1,0 +1,40 @@
+.kepek{
+    border: 1px solid blue;
+    box-shadow: 4px 4px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.neve{
+    color: darkslateblue;
+}
+
+.gomb{
+    margin: 10px;
+}
+
+b{
+    font-size: 20px;
+}
+i{
+    font-size: 20px;
+    color: blue;
+}
+
+#cím{
+    color: darkslateblue;
+}
+
+.modal
+{
+    text-align: center;
+}
+
+.kepmeret{
+    width: 300px;
+    height: 400px;
+}
